@@ -7,7 +7,7 @@ namespace Estimate1TennisChallenge
         public static void Main(string[] args)
         {
             // Read input from text file
-            string[] lines = File.ReadAllLines("C:\\Git\\TennisCalculator\\TennisCalculator\\InputFile.txt");
+            string[] lines = File.ReadAllLines(args[0]);
             List<Player> Players = new List<Player>();
 
             // Parse input into list of match results
