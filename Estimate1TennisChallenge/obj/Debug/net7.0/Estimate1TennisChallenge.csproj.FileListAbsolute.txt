@@ -1,0 +1,15 @@
+C:\Git\Estimate1TennisChallenge\Estimate1TennisChallenge\bin\Debug\net7.0\Estimate1TennisChallenge.exe
+C:\Git\Estimate1TennisChallenge\Estimate1TennisChallenge\bin\Debug\net7.0\Estimate1TennisChallenge.deps.json
+C:\Git\Estimate1TennisChallenge\Estimate1TennisChallenge\bin\Debug\net7.0\Estimate1TennisChallenge.runtimeconfig.json
+C:\Git\Estimate1TennisChallenge\Estimate1TennisChallenge\bin\Debug\net7.0\Estimate1TennisChallenge.dll
+C:\Git\Estimate1TennisChallenge\Estimate1TennisChallenge\bin\Debug\net7.0\Estimate1TennisChallenge.pdb
+C:\Git\Estimate1TennisChallenge\Estimate1TennisChallenge\obj\Debug\net7.0\Estimate1TennisChallenge.csproj.AssemblyReference.cache
+C:\Git\Estimate1TennisChallenge\Estimate1TennisChallenge\obj\Debug\net7.0\Estimate1TennisChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Estimate1TennisChallenge\Estimate1TennisChallenge\obj\Debug\net7.0\Estimate1TennisChallenge.AssemblyInfoInputs.cache
+C:\Git\Estimate1TennisChallenge\Estimate1TennisChallenge\obj\Debug\net7.0\Estimate1TennisChallenge.AssemblyInfo.cs
+C:\Git\Estimate1TennisChallenge\Estimate1TennisChallenge\obj\Debug\net7.0\Estimate1TennisChallenge.csproj.CoreCompileInputs.cache
+C:\Git\Estimate1TennisChallenge\Estimate1TennisChallenge\obj\Debug\net7.0\Estimate1TennisChallenge.dll
+C:\Git\Estimate1TennisChallenge\Estimate1TennisChallenge\obj\Debug\net7.0\refint\Estimate1TennisChallenge.dll
+C:\Git\Estimate1TennisChallenge\Estimate1TennisChallenge\obj\Debug\net7.0\Estimate1TennisChallenge.pdb
+C:\Git\Estimate1TennisChallenge\Estimate1TennisChallenge\obj\Debug\net7.0\Estimate1TennisChallenge.genruntimeconfig.cache
+C:\Git\Estimate1TennisChallenge\Estimate1TennisChallenge\obj\Debug\net7.0\ref\Estimate1TennisChallenge.dll
