@@ -1,4 +1,5 @@
 # :tennis: Tennis Calculator Coding Challenge :clipboard:
+Welcome to my Attempt at the Tennis Calculator Challenge.
 
 ## The Challenge :star:
 
