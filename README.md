@@ -1,16 +1,27 @@
 # :tennis: Tennis Calculator Coding Challenge :clipboard:
 Welcome to my Attempt at the Tennis Calculator Challenge.
 
-## The Challenge :star:
+## How to Run ⚙️
+### Prerequisites :open_file_folder:
+Install .Net 7.0 from the following link: ### Prerequisites :open_file_folder:
 
-## My Implementation :hammer:
+### Commands :hammer:
+Open your CLI and navigate to the unzipped folder
 
-### How to Run ⚙️
+``` bash
+cd Estimate1TennisChallenge
+dotnet run <PATH TO INPUT FILE>
+```
+You will then have a Console opened for you with further instructions
 
-#### Prerequisites :open_file_folder:
+If you wish to run the tests then run the following (commands are assuming you are still in the /Estimate1TennisChallenge folder from previous command)
+``` bash
+cd ..
+dotnet test
+```
 
-### Assumptions :thought_balloon:
+## Assumptions :thought_balloon:
 
-### Overall Solution details :mag_right:
+## Overall Solution details :mag_right:
 
-### Special Mentions :flashlight:
+## Special Mentions :flashlight:
