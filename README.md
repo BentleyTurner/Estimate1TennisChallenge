@@ -1,2 +1,15 @@
-"# Estimate1TennisChallenge"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/BentleyTurner/Estimate1TennisChallenge.git git push -u origin main
-"# Estimate1TennisChallenge" 
+# :tennis: Tennis Calculator Coding Challenge :clipboard:
+
+## The Challenge :star:
+
+## My Implementation :hammer:
+
+### How to Run ⚙️
+
+#### Prerequisites :open_file_folder:
+
+### Assumptions :thought_balloon:
+
+### Overall Solution details :mag_right:
+
+### Special Mentions :flashlight:
