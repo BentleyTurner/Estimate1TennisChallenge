@@ -12,7 +12,8 @@ namespace Estimate1TennisChallenge
 
             // Parse input into list of match results
             List<Models.Match> Matches = ParseInput(lines, Players);
-
+            
+            Console.Clear();
             Console.WriteLine("------------------------------");
             Console.WriteLine("------------------------------");
             Console.WriteLine(" WELCOME TO TENNIS CALCULATOR ");
